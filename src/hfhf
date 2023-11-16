@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> REGISTRATION FORM</title>
+    </head>
+    <body>
+        <h1>PLEASE FILL IN THE REQUIRED CREDENTIALS</h1>
+        <form action="/submit form" method="post">
+            <label form name>Name:</label>
+            <input type="text" id="Name" name="name"><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"><br><br>
+    
+        
+            <input type="submit" value="Submit">
+        </form>
+        
+        
+    </body>
+</html>
